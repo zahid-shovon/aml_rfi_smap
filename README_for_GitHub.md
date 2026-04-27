@@ -104,7 +104,4 @@ I would like to acknowledge **Prof. Ciprian Daniel Neagu** for his unwavering su
 - [Google Drive (Dataset)](https://drive.google.com/drive/folders/1sBCZBsKjUX6fOllrCUV4MtndDCf7VxXM?usp=sharing)
 - [SMAP Data Source](https://nsidc.org/data/SPL1BTB)
 
-## Appendix
-- **A**: Code Listings
-- **B**: Full Model Performance Tables
-- **C**: Progression of AI Usage in the Report
+
