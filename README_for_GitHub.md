@@ -2,7 +2,7 @@
 # Detection of Radio Frequency Interference Affecting Soil Moisture Retrieval Quality in NASA's SMAP Passive Microwave Observations
 
 ## Overview
-This project investigates the detection of **Radio Frequency Interference (RFI)** affecting **soil moisture retrieval** quality in **NASA's SMAP Passive Microwave Observations**. Using a variety of **advanced machine learning algorithms**, including **Logistic Regression**, **Random Forest**, **MLP**, **1D CNN**, and **XGBoost**, the goal is to detect RFI in passive microwave data and improve the quality of soil moisture and **Sea Surface Temperature (SST)** products. Additionally, **SHAP** is used to pr...
+This project investigates the detection of **Radio Frequency Interference (RFI)** affecting **soil moisture retrieval** quality in **NASA's SMAP Passive Microwave Observations**. Using a variety of **advanced machine learning algorithms**, including **Logistic Regression**, **Random Forest**, **MLP**, **1D CNN**, and **XGBoost**, the goal is to detect RFI in passive microwave data and improve the quality of soil moisture  Additionally, **SHAP** is used to pr...
 
 ## Key Objectives
 - **Detect RFI** in the passive microwave radiometer data collected by **NASA's SMAP satellite**.
